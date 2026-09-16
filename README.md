@@ -35,33 +35,9 @@ I enjoy building hands-on projects where business requirements, user needs, data
 
 ## 📊 Featured Projects
 
-### 🛒 E-commerce Sales & Marketing Analytics
 
-**Power BI · Power Query · DAX · Data Modeling**
+🚧 **Coming soon**
 
-End-to-end analysis of an e-commerce business, focusing on sales performance, profitability, product performance and marketing channel effectiveness.
-
-→ [View project](#)
-
----
-
-### 🧮 E-commerce Customer & Sales Analysis
-
-**SQL · BigQuery**
-
-SQL analysis exploring sales performance, customer behavior, product performance and key business metrics.
-
-→ [View project](#)
-
----
-
-### 📈 Sales Performance Dashboard
-
-**Excel · Power Query · Pivot Tables**
-
-Interactive Excel dashboard designed to monitor sales performance, revenue, profitability and product trends.
-
-→ [View project](#)
 
 ---
 
@@ -83,5 +59,4 @@ I’m currently looking for opportunities as a **Data Analyst**, where I can com
 
 ## 📫 Let's connect
 
-- [LinkedIn](#)
-- [Email](mailto:your-email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/ma%C3%ABva-lesterlin/)
