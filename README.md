@@ -4,7 +4,7 @@
 
 I’m a Data Analyst with a background in e-commerce and digital marketing.
 
-I enjoy turning raw data into clear dashboards, meaningful insights and actionable business recommendations.
+I enjoy building hands-on projects where business requirements, user needs, data, and technology come together to solve practical problems and deliver measurable results.
 
 ---
 
