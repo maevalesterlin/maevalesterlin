@@ -48,7 +48,7 @@ L’idée reste la même : **partir d’un besoin concret, structurer les donné
 
 ## 📊 Projets
 
-### 📊 [Dashboard financier — Excel](https://github.com/maevalesterlin/excel-financial-dashboard)
+### 📊 [Dashboard financier — Excel](https://github.com/maevalesterlin/financial-dashboard-Excel-GoogleSheets)
 
 **Excel · KPI · Automatisation · Data Visualisation · UX**
 
@@ -66,7 +66,7 @@ Analyse des performances commerciales d’une entreprise européenne spécialis�
 
 <br>
 
-### 📈 [SportFlow — Analyse des performances e-commerce](https://github.com/maevalesterlin/sportflow-powerbi-analysis)
+### 📈 [SportFlow — Analyse des performances e-commerce](https://github.com/maevalesterlin/sportflow-sales-analysis-PowerBI)
 
 **Power BI · Power Query · DAX**
 
